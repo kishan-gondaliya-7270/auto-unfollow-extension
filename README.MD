@@ -97,4 +97,4 @@ If you find a **bug** or have an idea for a **new feature**, feel free to:
 
 Watch how **Auto Unfollow Extension** works:
 
-<video src="https://github.com/kishan-gondaliya-7270/auto-unfollow-extension/raw/main/Media/chrome-extension-demo.mp4" width="600" controls></video>
+https://github.com/kishan-gondaliya-7270/auto-unfollow-extension/blob/main/Media/chrome-extension-demo.mp4
