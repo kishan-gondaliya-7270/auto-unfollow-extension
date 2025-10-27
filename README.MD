@@ -1,6 +1,6 @@
 # 🚀 Auto Unfollow Helper
 
-A lightweight **Chrome extension** that automatically clicks all **“Following”** buttons on a page perfect for batch unfollowing tasks.  
+A lightweight **Chrome extension** that automatically clicks all **“Following”** buttons on a page perfect for batch unfollowing tasks in different Social Media.  
 
 ---
 
@@ -93,4 +93,8 @@ If you find a **bug** or have an idea for a **new feature**, feel free to:
 2. **Create a new branch** for your feature or fix  
 3. **Submit a pull request** describing your changes  
 
-Let's make Auto Unfollow Helper even better together 💪
+## 🎥 Demo
+
+Watch how **Auto Unfollow Extension** works:
+
+https://github.com/kishan-gondaliya-7270/auto-unfollow-extension/blob/main/Media/chrome-extension-demo.mp4
