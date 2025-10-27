@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Unfollow Assistant",
+  "description": "Automatically unfollows users with a single click — with an ESC to stop anytime",
+  "version": "1.0.0",
+  "permissions": ["activeTab", "scripting"],
+  "icons": {
+    "128": "icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Start Auto Unfollow"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
